@@ -4,7 +4,7 @@ export const tweets = [
     owner: {
       name: 'Trybe',
       username: 'betrybe',
-      profilePicture: '',
+      profilePicture: 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png',
     },
     commentsCount: 3,
     tweet: 'Fala tribo! Já visitaram a nova documentação do React? Ficou show!'
@@ -14,7 +14,7 @@ export const tweets = [
     owner: {
       name: 'Miguel Silva',
       username: 'miguelito',
-      profilePicture: '',
+      profilePicture: 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png',
     },
     commentsCount: 2,
     tweet: 'Saudades de fazer corujão de CS 1.6.'
@@ -24,7 +24,7 @@ export const tweets = [
     owner: {
       name: 'Miguel Silva',
       username: 'miguelito',
-      profilePicture: '',
+      profilePicture: 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png',
     },
     commentsCount: 5,
     tweet: 'Quem não joga da de_dust2 nem gente é!'
@@ -34,7 +34,7 @@ export const tweets = [
     owner: {
       name: 'Ada Lovelace',
       username: 'loveAda',
-      profilePicture: '',
+      profilePicture: 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png',
     },
     commentsCount: 3,
     tweet: 'Caramba, programar é bom d+!'
