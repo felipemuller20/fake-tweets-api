@@ -11,6 +11,7 @@ type Users = {
   tweetsId: number[],
   following: number,
   followers: number,
+  bio: string,
 }
 
 export default function handler(
