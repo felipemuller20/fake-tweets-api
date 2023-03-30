@@ -76,7 +76,7 @@ export const tweets = [
     owner: {
       name: 'Tinus Lorvalds',
       username: 'linuxthebest',
-      profilePicture: 'https://betrybe.github.io/images/fake-twitter/gates.png',
+      profilePicture: 'https://betrybe.github.io/images/fake-twitter/linus.png',
     },
     commentsCount: 9,
     tweet: 'Teoria e prática às vezes entram em conflito. E quando isso acontece, a teoria perde. Sempre.'
