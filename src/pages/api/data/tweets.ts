@@ -35,7 +35,7 @@ export const tweets = [
     id: 4,
     owner: {
       name: 'Ada Lovelace',
-      username: 'loveAda',
+      username: 'adalove',
       profilePicture: 'https://betrybe.github.io/images/fake-twitter/ada.jpeg',
     },
     commentsCount: 5,
@@ -76,7 +76,7 @@ export const tweets = [
     owner: {
       name: 'Tinus Lorvalds',
       username: 'linuxthebest',
-      profilePicture: 'https://betrybe.github.io/images/fake-twitter/linus.png',
+      profilePicture: 'https://betrybe.github.io/images/fake-twitter/linus.webp',
     },
     commentsCount: 9,
     tweet: 'Teoria e prática às vezes entram em conflito. E quando isso acontece, a teoria perde. Sempre.'
@@ -106,7 +106,7 @@ export const tweets = [
     owner: {
       name: 'Gill Bates',
       username: 'windowsisbetter',
-      profilePicture: 'https://betrybe.github.io/images/fake-twitter/linus.webp',
+      profilePicture: 'https://betrybe.github.io/images/fake-twitter/gates.png',
     },
     commentsCount: 256,
     tweet: 'É bom comemorar o sucesso, mas é mais importante aprender as lições do fracasso.'

@@ -23,7 +23,7 @@ export const users = [
   },
   {
     name: 'Ada Lovelace',
-    username: 'loveada',
+    username: 'adalove',
     id: 3,
     profilePicture: 'https://betrybe.github.io/images/fake-twitter/ada.jpeg',
     backgroundPicture: 'https://betrybe.github.io/images/fake-twitter/livros.jpeg',
