@@ -155,7 +155,7 @@ export const tweets = [
     commentsCount: 18,
     retweetsCount: 79,
     likesCount: 1235,
-    tweet: 'As máquinas me surpreendem com bastante frequência. '
+    tweet: 'As máquinas me surpreendem com bastante frequência.'
   },
   {
     id: 14,
