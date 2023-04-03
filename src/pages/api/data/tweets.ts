@@ -11,7 +11,7 @@ export const tweets = [
     commentsCount: 125,
     retweetsCount: 56,
     likesCount: 2500,
-    tweet: 'Fala tribo! Já visitaram a nova documentação do React? Ficou show!'
+    tweet: 'Fala tribo! Já visitaram a nova documentação do React?'
   },
   {
     id: 2,
@@ -156,5 +156,29 @@ export const tweets = [
     retweetsCount: 79,
     likesCount: 1235,
     tweet: 'As máquinas me surpreendem com bastante frequência. '
+  },
+  {
+    id: 14,
+    owner: {
+      name: 'Trybe',
+      username: 'betrybe',
+      profilePicture: 'https://pbs.twimg.com/profile_images/1574869347079692296/QpY7cGuV_400x400.jpg',
+    },
+    commentsCount: 88,
+    retweetsCount: 15,
+    likesCount: 1899,
+    tweet: 'A jornada é intensa, mas nunca solitária. Faça parte de uma comunidade colaborativa, que se ajuda no aprendizado e nas conexões com o mercado de trabalho.'
+  },
+  {
+    id: 15,
+    owner: {
+      name: 'Trybe',
+      username: 'betrybe',
+      profilePicture: 'https://pbs.twimg.com/profile_images/1574869347079692296/QpY7cGuV_400x400.jpg',
+    },
+    commentsCount: 100,
+    retweetsCount: 100,
+    likesCount: 1000,
+    tweet: 'A porta de entrada‍ para sua carreira em <tecnologia>'
   },
 ]
