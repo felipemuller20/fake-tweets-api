@@ -10,6 +10,8 @@ type Tweets = {
     profilePicture: string,
   },
   commentsCount: number,
+  retweetsCount: number,
+  likesCount: number,
   tweet: string,
 }
 

@@ -6,8 +6,8 @@ export const users = [
     profilePicture: 'https://pbs.twimg.com/profile_images/1574869347079692296/QpY7cGuV_400x400.jpg',
     backgroundPicture: 'https://pbs.twimg.com/profile_banners/1133443092399493120/1664313179/1500x500',
     tweetsId: [1],
-    following: 2,
-    followers: 2,
+    following: 100,
+    followers: 20000,
     bio: 'A escola mais orientada para o desenvolvimento de uma carreira de sucesso.',
   },
   {
@@ -17,8 +17,8 @@ export const users = [
     profilePicture: 'https://betrybe.github.io/images/fake-twitter/melonmusk.jpeg',
     backgroundPicture: 'https://betrybe.github.io/images/fake-twitter/melon-background.jpeg',
     tweetsId: [2, 3],
-    following: 2,
-    followers: 1,
+    following: 10,
+    followers: 6000000,
     bio: 'Guerreiro na luta contra os robôs. #ChatGPTisTheNewSkyNet',
   },
   {
@@ -28,8 +28,8 @@ export const users = [
     profilePicture: 'https://betrybe.github.io/images/fake-twitter/ada.jpeg',
     backgroundPicture: 'https://betrybe.github.io/images/fake-twitter/livros.jpeg',
     tweetsId: [4],
-    following: 2,
-    followers: 1,
+    following: 120,
+    followers: 1852,
     bio: 'A primeira pessoa programadora da história. #euamoalgoritmo'
   },
   {
@@ -38,9 +38,9 @@ export const users = [
     id: 4,
     profilePicture: 'https://betrybe.github.io/images/fake-twitter/turing.jpeg',
     backgroundPicture: 'https://betrybe.github.io/images/fake-twitter/turing-machine.jpeg',
-    tweetsId: [0, 0],
-    following: 2,
-    followers: 1,
+    tweetsId: [12, 13],
+    following: 100,
+    followers: 1954,
     bio: 'Criptoanalista e pai da computação nas horas vagas.'
   },
   {
@@ -50,8 +50,8 @@ export const users = [
     profilePicture: 'https://betrybe.github.io/images/fake-twitter/linus.webp',
     backgroundPicture: 'https://betrybe.github.io/images/fake-twitter/linux.jpeg',
     tweetsId: [6, 7, 8],
-    following: 2,
-    followers: 1,
+    following: 1,
+    followers: 15000,
     bio: 'A Microsoft não é do mal, ela só não sabe fazer um sistema operacional decente.'
   },
   {
@@ -61,9 +61,9 @@ export const users = [
     profilePicture: 'https://betrybe.github.io/images/fake-twitter/margaret-obama.webp',
     backgroundPicture: 'https://betrybe.github.io/images/fake-twitter/hamilton-nasa.jpeg',
     tweetsId: [5],
-    following: 2,
-    followers: 1,
-    bio: ''
+    following: 99,
+    followers: 2023,
+    bio: 'Criadora do software que impediu que o pouso na Lua fosse abortado.'
   },
   {
     name: 'Gill Bates',
@@ -72,8 +72,8 @@ export const users = [
     profilePicture: 'https://betrybe.github.io/images/fake-twitter/gates.png',
     backgroundPicture: 'https://betrybe.github.io/images/fake-twitter/windows-shrek.jpeg',
     tweetsId: [9, 10, 11],
-    following: 2,
-    followers: 1,
+    following: 257,
+    followers: 80000,
     bio: 'Gênio, bilionário, playboy e filantropo.'
   },
 ]
