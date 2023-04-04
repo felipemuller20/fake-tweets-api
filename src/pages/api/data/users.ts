@@ -5,7 +5,7 @@ export const users = [
     id: 1,
     profilePicture: 'https://pbs.twimg.com/profile_images/1574869347079692296/QpY7cGuV_400x400.jpg',
     backgroundPicture: 'https://pbs.twimg.com/profile_banners/1133443092399493120/1664313179/1500x500',
-    tweetsId: [1],
+    tweetsId: [1, 14, 15],
     following: 100,
     followers: 20000,
     bio: 'A escola mais orientada para o desenvolvimento de uma carreira de sucesso.',
